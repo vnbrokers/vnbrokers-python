@@ -1,0 +1,19 @@
+[
+  {
+    "marketId": "STO",
+    "boardId": "G1",
+    "isin": "VN000000HPG4",
+    "symbol": "HPG",
+    "productGrpId": "ST",
+    "securityGroupId": "ST",
+    "basicPrice": 28000,
+    "ceilingPrice": 29950,
+    "floorPrice": 26050,
+    "securityStatus": "TRADE",
+    "symbolAdminStatusCode": "NORMAL",
+    "symbolTradingMethodStatusCode": "NORMAL",
+    "symbolTradingSanctionStatusCode": "NORMAL",
+    "finalTradeDate": null,
+    "listingDate": "2007-11-15"
+  }
+]

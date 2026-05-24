@@ -1,0 +1,20 @@
+{
+  "id": 116,
+  "symbol": "VN30F2506",
+  "side": "NB",
+  "orderType": "LO",
+  "orderStatus": "FILLED",
+  "loanPackageId": 1775,
+  "price": 1200.5,
+  "averagePrice": 1200.5,
+  "quantity": 2,
+  "fillQuantity": 2,
+  "canceledQuantity": 0,
+  "leaveQuantity": 0,
+  "accountNo": "000123",
+  "marketType": "DERIVATIVE",
+  "orderCategory": "NORMAL",
+  "transDate": "2026-05-23",
+  "createdDate": "2026-05-23T09:15:00Z",
+  "modifiedDate": "2026-05-23T09:15:01Z"
+}

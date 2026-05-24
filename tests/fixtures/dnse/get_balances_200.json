@@ -1,0 +1,19 @@
+{
+  "stock": {
+    "totalCash": 15000000,
+    "availableCash": 12500000,
+    "depositInterest": 0,
+    "totalDebt": 2500000,
+    "depositFeeAmount": 0,
+    "withdrawableCash": 12000000,
+    "cashDividendReceiving": 500000
+  },
+  "derivative": {
+    "pendingDepositWithdraw": 0,
+    "remainSecure": 3000000,
+    "usedSecure": 1000000,
+    "pendingSecure": 0,
+    "holdTaxAndFee": 10000,
+    "totalLoanDebt": 0
+  }
+}

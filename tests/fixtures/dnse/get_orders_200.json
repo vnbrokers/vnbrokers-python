@@ -1,0 +1,25 @@
+{
+  "orders": [
+    {
+      "id": 42,
+      "side": "NB",
+      "accountNo": "0001179019",
+      "symbol": "VN30F2505",
+      "price": 1300.5,
+      "priceSecure": 0,
+      "averagePrice": 1301,
+      "quantity": 10,
+      "fillQuantity": 3,
+      "canceledQuantity": 0,
+      "leaveQuantity": 7,
+      "orderType": "LO",
+      "orderCategory": "NORMAL",
+      "orderStatus": "PARTIALLY_FILLED",
+      "loanPackageId": 0,
+      "marketType": "DERIVATIVE",
+      "transDate": "2026-05-01",
+      "createdDate": "2026-05-01T09:00:00Z",
+      "modifiedDate": "2026-05-01T10:00:00Z"
+    }
+  ]
+}

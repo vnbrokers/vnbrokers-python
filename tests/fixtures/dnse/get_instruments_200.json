@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "symbol": "ACB",
+      "marketId": "STO",
+      "securityGroupId": "ST",
+      "symbolType": "STOCK",
+      "listedDate": "2006-11-21",
+      "shortName": "ACB",
+      "name": "Ngan hang TMCP A Chau",
+      "indexName": ["VN30"]
+    }
+  ],
+  "total": 1,
+  "page": 1,
+  "pageSize": 1000
+}

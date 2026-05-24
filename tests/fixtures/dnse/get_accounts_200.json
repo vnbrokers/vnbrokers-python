@@ -1,0 +1,20 @@
+{
+  "name": "Nguyen Van A",
+  "custodyCode": "064C000123",
+  "investorId": "INV123",
+  "accounts": [
+    {
+      "id": "000123",
+      "dealAccount": true,
+      "derivativeAccount": false
+    },
+    {
+      "id": "000123D",
+      "dealAccount": false,
+      "derivativeAccount": true,
+      "derivative": {
+        "status": "ACTIVE"
+      }
+    }
+  ]
+}

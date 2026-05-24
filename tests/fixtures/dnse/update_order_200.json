@@ -1,0 +1,17 @@
+{
+  "id": 42,
+  "accountNo": "0001179019",
+  "side": "NB",
+  "loanPackageId": 1769,
+  "symbol": "ACB",
+  "orderType": "LO",
+  "orderCategory": "NORMAL",
+  "price": 23100,
+  "quantity": 200,
+  "fillQuantity": 0,
+  "canceledQuantity": 0,
+  "marketType": "STOCK",
+  "transDate": "2026-05-01",
+  "createdDate": "2026-05-01T09:00:00Z",
+  "modifiedDate": "2026-05-01T10:00:00Z"
+}

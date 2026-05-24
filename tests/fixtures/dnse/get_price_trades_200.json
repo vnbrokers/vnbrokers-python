@@ -1,0 +1,11 @@
+{
+  "trades": [
+    {
+      "price": 23000,
+      "quantity": 1000,
+      "value": 23000000,
+      "time": 1773183637
+    }
+  ],
+  "nextPageToken": "next-token"
+}

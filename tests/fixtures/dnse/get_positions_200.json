@@ -1,0 +1,28 @@
+{
+  "positions": [
+    {
+      "id": 519923,
+      "marketType": "DERIVATIVE",
+      "symbol": "VN30F2506",
+      "accountNo": "000123D",
+      "status": "OPEN",
+      "loanPackageId": 1775,
+      "side": "NB",
+      "accumulateQuantity": 4,
+      "tradeQuantity": 4,
+      "closedQuantity": 1,
+      "openQuantity": 3,
+      "overNightQuantity": 2,
+      "costPrice": 1200.5,
+      "marketPrice": 1210,
+      "breakEvenPrice": 1201,
+      "averageClosePrice": 1204,
+      "createdDate": "2026-05-22T09:15:00",
+      "modifiedDate": "2026-05-22T14:30:00"
+    }
+  ],
+  "pageIndex": 0,
+  "pageSize": 20,
+  "pageNumber": 1,
+  "total": 1
+}

@@ -1,0 +1,15 @@
+{
+  "id": 42,
+  "side": "NS",
+  "accountNo": "0001179019",
+  "symbol": "VN30F2505",
+  "price": 1300.5,
+  "quantity": 10,
+  "orderType": "LO",
+  "fillQuantity": 0,
+  "leaveQuantity": 10,
+  "canceledQuantity": 0,
+  "loanPackageId": 0,
+  "createdDate": "2026-05-01T09:00:00Z",
+  "modifiedDate": "2026-05-01T10:00:00Z"
+}
