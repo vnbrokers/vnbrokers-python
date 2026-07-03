@@ -44,7 +44,9 @@ jobs:
             -Dsonar.organization=vnbrokers
             -Dsonar.python.version=3.11
             -Dsonar.python.coverage.reportPaths=coverage.xml
-            -Dsonar.sources=.
+            -Dsonar.exclusions=tests/**
+            -Dsonar.test.inclusions=tests/**,**/test_*.py
+            -Dsonar.sources=src/
             -Dsonar.sourceEncoding=UTF-8
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
