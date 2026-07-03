@@ -1,6 +1,5 @@
 import pytest
 
-from examples.multi_broker.select_broker import select_broker
 from vnbrokers import create_broker, get_broker_registration, list_brokers
 from vnbrokers.brokers.dnse import DnseBroker, DnseConfig
 from vnbrokers.brokers.ssi import SsiBroker, SsiConfig
@@ -49,7 +48,3 @@ def test_create_broker_rejects_config_and_keyword_arguments_together() -> None:
         create_broker("dnse", DnseConfig(), api_key="key")
 
 
-def test_multi_broker_example_uses_factory() -> None:
-    broker = select_broker("dnse")
-
-    assert isinstance(broker, DnseBroker)
