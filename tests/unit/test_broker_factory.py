@@ -46,5 +46,3 @@ def test_create_broker_rejects_unknown_broker() -> None:
 def test_create_broker_rejects_config_and_keyword_arguments_together() -> None:
     with pytest.raises(TypeError, match="Pass either config or config keyword arguments"):
         create_broker("dnse", DnseConfig(), api_key="key")
-
-
