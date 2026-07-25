@@ -35,4 +35,4 @@ jobs:
         run: lefthook dump
 
       - name: Run CI checks
-        run: lefthook run --pre-commit
+        run: lefthook run pre-commit
