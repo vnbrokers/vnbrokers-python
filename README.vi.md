@@ -1,6 +1,4 @@
-# vnbrokers-python (prototype)
-
-Khung Python SDK cho VNBrokers.
+# VNBrokers SDK for Python
 
 > :warning: **Cảnh báo:** Đây chỉ là nguyên mẫu đang trong giai đoạn phát triển. Nếu bạn không phải chuyên gia hoặc lập trình viên, xin hãy bỏ qua dự án này; lập trình viên chỉ nên dùng để tham khảo.
 

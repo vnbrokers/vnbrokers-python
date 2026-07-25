@@ -1,6 +1,4 @@
-# vnbrokers-python (prototype)
-
-Python SDK skeleton for VNBrokers.
+# VNBrokers SDK for Python
 
 > :warning: **Warning:** This is only a prototype. If you are not an expert or developer, please skip this project; developers should use it for reference only.
 
