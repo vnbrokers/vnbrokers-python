@@ -1,7 +1,5 @@
 # VNBrokers SDK for Python
 
-> :warning: **Warning:** This is only a prototype. If you are not an expert or developer, please skip this project; developers should use it for reference only.
-
 ## Disclaimer
 
 This project is provided for technical reference and development purposes only. It is not financial, investment, legal, tax, or trading advice. APIs, data, authentication flows, and broker requirements may change without notice. Use this project at your own risk and verify all requests, responses, and trading actions with the official broker documentation before using them in any real account or production system.
